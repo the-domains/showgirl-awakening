@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Showgirl Awakening]]></title>
         <description><![CDATA[Showgirl Awakening]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/showgirl-awakening/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 00:32:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 00:45:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/showgirl-awakening/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d1757eb-ce60-48e3-81a8-1f6ef561eee0.jpg">]]></description>
+            <link>https://thegrid.ai/showgirl-awakening/5b36c9a5-b3d4-4c76-b85f-a9cdfa239bfe/index.html</link>
+            <guid isPermaLink="false">5b36c9a5-b3d4-4c76-b85f-a9cdfa239bfe</guid>
+            <pubDate>Tue, 15 Mar 2016 00:45:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi, I'm Kellita, your Glenda the good witch-meets-Carmen Miranda, Showgirl Shaman hostess for this sparkly corner of the interwebs.</p>]]></description>
-            <link>undefinedhi-im-kellita-your-glenda-the-good-witch-meets-carmen-mir/index.html</link>
+            <link>https://thegrid.ai/showgirl-awakening/hi-im-kellita-your-glenda-the-good-witch-meets-carmen-mir/index.html</link>
             <guid isPermaLink="false">447dc7b3-b6a7-4199-b5df-6bd4487a9468</guid>
             <pubDate>Tue, 15 Mar 2016 00:32:04 GMT</pubDate>
         </item>
