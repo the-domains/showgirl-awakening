@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Hi, I'm Kellita, your Glenda the good witch-meets-Carmen Miranda, Showgirl Shaman\_"
-datePublished: '2016-03-15T00:32:04.612Z'
-dateModified: '2016-03-15T00:28:18.155Z'
+description: "Hi, I'm Kellita, your Glenda the good witch-meets-Carmen Miranda, Showgirl Shaman hostess for this sparkly corner of the interwebs."
+datePublished: '2016-03-15T01:01:02.799Z'
+dateModified: '2016-03-15T00:57:52.777Z'
 title: ''
 author: []
 authors: []
