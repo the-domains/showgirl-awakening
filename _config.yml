@@ -1,0 +1,28 @@
+name: Showgirl Awakening
+favicon: null
+layout_spectrum: 0.38782690232619643
+typography_spectrum: 0.4832806074991822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5796017562970519
+  lightness: 0.13784607429988682
+  saturation: 0.2819852759130299
+  rhythmicContrast: 0.1809884801041335
+purpose: []
